@@ -7,6 +7,15 @@
 	
 }
 div>img{
-	width: 300px;
-	position: center;
+	width: 200px;
+}
+p{
+	text-align: center;
+}
+#btn{
+	padding:20px;
+	background-color: orangered;
+	color: white;
+	border-radius: 10px;
+	border: none;
 }
